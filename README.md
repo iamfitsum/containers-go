@@ -4,12 +4,12 @@ This project is a minimal container implemented in Go, inspired by Liz Rice's ta
 
 ## 📜 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [File Structure](#file-structure)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Acknowledgements](#acknowledgements)
+- [Overview](#-overview)
+- [Features](#-features)
+- [File Structure](#-file-structure)
+- [Setup](#%EF%B8%8F-setup)
+- [Usage](#%EF%B8%8F-usage)
+- [Acknowledgements](#-acknowledgements)
 
 ## 📖 Overview
 
